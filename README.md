@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s IT and Cybersecurity Project Portfolio 👨🏿‍💻
 
 Creating tangible cybersecurity solutions through technical projects is where my passion truly shines. My portfolio showcases practical security implementations ranging from penetration testing frameworks to security automation platforms, each demonstrating my immersion in cybersecurity's challenging landscape. I welcome you to explore these projects and discover the operational security improvements they've delivered!
 
