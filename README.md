@@ -10,7 +10,7 @@ Creating tangible cybersecurity solutions through technical projects is where my
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)** (in progess)
 
 <hr/>
 
