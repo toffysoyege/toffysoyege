@@ -5,7 +5,7 @@ Creating tangible cybersecurity solutions through technical projects is where my
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/)**
+- **[Vulnerability Management Program Implementation](https://github.com/toffysoyege/vulnerability-management-prog)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/)**
 
 ## 🚨 Threat Hunting and Security Operations
