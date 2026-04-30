@@ -1,6 +1,4 @@
-# <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s IT and Cybersecurity Project Portfolio 👨🏿‍💻
-
-Creating tangible cybersecurity solutions through technical projects is where my passion truly shines. My portfolio showcases practical security implementations ranging from penetration testing frameworks to security automation platforms, each demonstrating my immersion in cybersecurity's challenging landscape. I welcome you to explore these projects and discover the operational security improvements they've delivered!
+# <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s Cloud Security Portfolio 👨🏿‍💻
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -13,6 +11,8 @@ Creating tangible cybersecurity solutions through technical projects is where my
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/toffysoyege/threat-hunting-scenario-tor/tree/main)** 
 
 <hr/>
+
+**New Project coming soon** 
 
 ## 🔗 Connect With Me
 
