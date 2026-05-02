@@ -12,7 +12,7 @@
 
 <hr/>
 
-\**New Projects coming soon** 
+\***New Projects coming soon*** 
 
 ## 🔗 Connect With Me
 
