@@ -11,6 +11,9 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/toffysoyege/threat-hunting-scenario-tor/tree/main)**
 
+## RAG Project 
+- **[RAG FROM SCRATCH](https://github.com/toffysoyege/rag-from-scratch)**
+
 <hr/>
 
 
