@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s Cloud Security Portfolio 👨🏿‍💻
+# <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s Information Technology Portfolio 👨🏿‍💻
 
 ## 💻 AI Projects
 - **[RAG AI MODEL](https://github.com/toffysoyege/rag-from-scratch)**
