@@ -1,5 +1,8 @@
 # <a href="https://www.linkedin.com/in/toffysoyege">Toffy Soyege</a>'s Cloud Security Portfolio 👨🏿‍💻
 
+## 💻 AI Projects
+- **[RAG AI MODEL](https://github.com/toffysoyege/rag-from-scratch)**
+
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -10,9 +13,6 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/toffysoyege/threat-hunting-scenario-tor/tree/main)**
-
-## RAG Project 
-- **[RAG FROM SCRATCH](https://github.com/toffysoyege/rag-from-scratch)**
 
 <hr/>
 
